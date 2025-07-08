@@ -1,0 +1,59 @@
+body {
+  background-color: green;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+h1 {
+  color: yellow;
+  font-weight: bold;
+  text-align: center;
+  font-size: 28px;
+}
+
+p {
+  font-size: 22px;
+  text-align: justify;
+}
+
+ul li {
+  margin-bottom: 12px;
+  font-size: 18px;
+}
+
+.banda-img {
+  width: 250px;
+  border-radius: 15px;
+  display: block;
+  margin: 20px auto;
+}
+
+.pais-img {
+  width: 200px;
+  border-radius: 10px;
+}
+
+table {
+  margin-top: 20px;
+  border-collapse: collapse;
+  width: 100%;
+  background-color: #ffffff;
+}
+
+table, th, td {
+  border: 1px solid #666;
+  padding: 10px;
+  text-align: center;
+}
+
+a {
+  display: inline-block;
+  margin-top: 20px;
+  color: #003366;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+a:hover {
+  color: #cc0000;
+}
